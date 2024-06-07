@@ -5,8 +5,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
